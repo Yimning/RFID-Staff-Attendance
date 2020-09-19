@@ -1,0 +1,13 @@
+..\obj\store.o: ..\HARDWARE\STORE\store.c
+..\obj\store.o: ..\HARDWARE\STORE\store.h
+..\obj\store.o: ..\SYSTEM\sys\sys.h
+..\obj\store.o: ..\SYSTEM\sys\stm32f10x.h
+..\obj\store.o: ..\SYSTEM\sys\core_cm3.h
+..\obj\store.o: C:\LZP\Tool\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\store.o: ..\SYSTEM\sys\system_stm32f10x.h
+..\obj\store.o: ..\HARDWARE\RFID\rc522.h
+..\obj\store.o: ..\HARDWARE\SPI2\spi2.h
+..\obj\store.o: ..\SYSTEM\delay\delay.h
+..\obj\store.o: C:\LZP\Tool\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\store.o: C:\LZP\Tool\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\store.o: ..\HARDWARE\KEY\key.h

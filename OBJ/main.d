@@ -1,0 +1,17 @@
+..\obj\main.o: main.c
+..\obj\main.o: ..\HARDWARE\OUTPUT\output.h
+..\obj\main.o: ..\SYSTEM\sys\sys.h
+..\obj\main.o: ..\SYSTEM\sys\stm32f10x.h
+..\obj\main.o: ..\SYSTEM\sys\core_cm3.h
+..\obj\main.o: C:\LZP\Tool\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\main.o: ..\SYSTEM\sys\system_stm32f10x.h
+..\obj\main.o: ..\SYSTEM\delay\delay.h
+..\obj\main.o: ..\HARDWARE\RFID\rc522.h
+..\obj\main.o: ..\HARDWARE\SPI2\spi2.h
+..\obj\main.o: C:\LZP\Tool\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\main.o: C:\LZP\Tool\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\main.o: ..\SYSTEM\usart\usart.h
+..\obj\main.o: ..\HARDWARE\LED\led.h
+..\obj\main.o: ..\HARDWARE\STORE\store.h
+..\obj\main.o: ..\HARDWARE\KEY\key.h
+..\obj\main.o: ..\HARDWARE\BEEP\beep.h
